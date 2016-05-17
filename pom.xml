@@ -11,7 +11,7 @@
     </parent>
   <groupId>org.zalando.stups.io.fabric8</groupId>
   <artifactId>docker-maven-plugin</artifactId>
-  <version>0.15.2-zal-1</version>
+  <version>0.15.2-zal-2-SNAPSHOT</version>
   <packaging>maven-plugin</packaging>
 
   <name>maven-docker-plugin</name>
@@ -373,7 +373,7 @@
     <url>https://github.com/jbellmann/docker-maven-plugin</url>
     <connection>scm:git:https://github.com/jbellmann/docker-maven-plugin.git</connection>
     <developerConnection>scm:git:https://github.com/jbellmann/docker-maven-plugin.git</developerConnection>
-    <tag>0.15.2-zal-1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <licenses>
